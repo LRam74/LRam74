@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LRam74
+- 👋 Hi, I’m @Omnitracs-Lramirez
 - 👀 I’m interested in SQL server & Powershell 
 - 🌱 I’m currently learning Powershell
 - 💞️ I’m looking to collaborate on SQL server 
